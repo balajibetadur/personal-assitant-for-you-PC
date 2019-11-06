@@ -33,8 +33,8 @@ engine.setProperty('voice',voices[1].id)
 
 
 #mail collection,the reciever mail should be mentioned here 
-mails = {"balaji":"balajibetadur@gmail.com",
-    "balajif1":"balajibetadurf1@gmail.com"
+mails = {"name1":"email1@gmail.com",
+    "name2":"email2@gmail.com"
     
 }
 
@@ -101,8 +101,8 @@ def sendEmail(to, content):
     server = smtplib.SMTP('smtp.gmail.com', 587)
     server.ehlo()
     server.starttls()
-    server.login('balajibetadurf1@gmail.com', '10935143')
-    server.sendmail('balajibetadurf1@gmail.com', to, content)
+    server.login('youremail@gmail.com', 'passward')
+    server.sendmail('youremail@gmail.com', to, content)
     server.close()
 
 
