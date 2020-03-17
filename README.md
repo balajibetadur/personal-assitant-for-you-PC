@@ -7,4 +7,29 @@ It is a voice assistant like alexa and google assistant.It recognizes your voice
 
 Once you run the program it will ask for the identification passward i,e authentication .You can change the passward to anything you want.
 
+
+# prototype commands available
+
+1.wish
+2.send mail
+3.increase brightness
+4.increase volume
+5.increase volume
+6.decrese volume
+7.battery status
+8.today's updates
+9.wikipedia search
+10.open google
+11.open youtube
+12.open specefic folder in your PC
+13.play music
+14.shutdown
+15.restart
+16.open anything in your PC
+
+
+ # How to run
+ 
+ python spotty.py
+ 
  
