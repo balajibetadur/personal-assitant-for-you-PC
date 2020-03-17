@@ -10,23 +10,24 @@ Once you run the program it will ask for the identification passward i,e authent
 
 # prototype commands available
 
-1.wish
-2.send mail
-3.increase brightness
-4.increase volume
-5.increase volume
-6.decrese volume
-7.battery status
-8.today's updates
-9.wikipedia search
-10.open google
-11.open youtube
-12.open specefic folder in your PC
-13.play music
-14.shutdown
-15.restart
-16.open anything in your PC
+1.wish<br/>
+2.send mail<br/>
+3.increase brightness<br/>
+4.increase volume<br/>
+5.increase volume<br/>
+6.decrese volume<br/>
+7.battery status<br/>
+8.today's updates<br/>
+9.wikipedia search<br/>
+10.open google<br/>
+11.open youtube<br/>
+12.open specefic folder in your PC<br/>
+13.play music<br/>
+14.shutdown<br/>
+15.restart<br/>
+16.open anything in your PC<br/>
 
+All the commands are taken by voice and responses are given by voice and everything is done autometically
 
  # How to run
  
